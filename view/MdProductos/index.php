@@ -105,9 +105,9 @@ if(isset($_SESSION["USU_ID"])){
             <?php require_once("../html/footer.php"); ?>
 
         </div>
+
     </div>
     
-
 
     <!-- ============================================== -->
     <!---------------- Elementos javascripts ------------->
